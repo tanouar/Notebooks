@@ -28,3 +28,7 @@ else:
     print("Erreur :", response.status_code)
 
 
+#CourseID
+#StudentID
+#StudentName
+#StudentCursus
